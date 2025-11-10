@@ -32,7 +32,6 @@ class _CoffeeDetailPageState extends State<CoffeeDetailPage> {
               children: [
                 // Header Image
                 _buildHeaderImage(),
-
                 // Main Content Area
                 Container(
                   padding: const EdgeInsets.fromLTRB(16, 24, 16, 120), // Extra bottom padding for fixed button
